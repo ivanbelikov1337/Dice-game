@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eff0d21b-edd8-4229-bab9-6484b5cf916d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/StoreProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/enterNumber/EnterNumber.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/gameControl/GameControl.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/gameHistory/GameHistory.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/gameResult/GameResult.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/title/Title.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/features/game/game.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/features/game/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/features/game/reducers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/hooks/hooks.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/type.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="eff0d21b-edd8-4229-bab9-6484b5cf916d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Рс/Desktop/ss/dialogi-frontend/src/modules/modals/add-organization/hooks/use-add-org.ts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\app\\task-test\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Рс/Desktop/ss/dialogi-frontend/src/modules/modals/add-organization/hooks/use-add-org.ts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\app\\task-test\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\app\task-test\src\lib\hooks" />
@@ -95,6 +75,7 @@
       <workItem from="1735500254237" duration="2778000" />
       <workItem from="1735503123931" duration="9271000" />
       <workItem from="1735519768547" duration="9836000" />
+      <workItem from="1735572324943" duration="415000" />
     </task>
     <servers />
   </component>
